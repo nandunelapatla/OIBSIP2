@@ -35,4 +35,4 @@ tribute-page-project/
 
 ## 👤 Author
 
-Created by [Your Name](https://github.com/your-username)
+Created by NANDA KISHOR REDDY NELAPATLA (https://github.com/your-nandunelapatla)
